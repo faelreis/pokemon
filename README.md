@@ -2,7 +2,7 @@
 <img src="https://github.com/faelreis/pokemon/assets/87779561/d92f206b-5ab1-4260-b18f-d09142152e86">
 
 <h2>Descrição</h2>
-A PokéAPI é uma API pública que contém uma vasta quantidade de dados sobre Pokémon, incluindo informações sobre espécies, habilidades, movimentos, tipos, evoluções e muito mais. O PokéInfo utiliza essa API para fornecer uma experiência rica em informações para os fãs e entusiastas dessas criaturas misteriosas.
+A PokéAPI é uma API pública que contém uma vasta quantidade de dados sobre Pokémon, incluindo informações sobre espécies, habilidades, movimentos, tipos, evoluções e muito mais. O PokéInfo utiliza essa API para fornecer uma experiência rica em informações para os fãs.
 
 <h2>Recursos Principais</h2>
 <ul>
